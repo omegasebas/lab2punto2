@@ -8,3 +8,4 @@ palabras son iguales y mostrar la suma decimal de los caracteres de cada palabra
 puede facil mente cambiar las palabras en el menu y hacer las distintas operaciones con nuevas palabras
 
 
+![punto2](https://user-images.githubusercontent.com/69492240/92959568-ab231780-f431-11ea-8b6d-add075e75e3f.jpeg)
